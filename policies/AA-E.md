@@ -6,7 +6,7 @@ also-codes:
 title: SCHOOL DISTRICT LEGAL STATUS SEAL
 date: 2015-05-01
 legal-refs: 
-  -M.G.L. 71:16
+  - M.G.L. 71:16
 date-original-adoption:
 date-adoption: 2008-11-18
 date-first-reading: 2008-11-18
