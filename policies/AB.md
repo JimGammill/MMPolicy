@@ -2,11 +2,13 @@
 type: policy
 code: AB
 section: A
-also-codes: [JJ, XX]
 title: THE PEOPLE AND THEIR SCHOOL DISTRICT
-date: 
-legal-refs: ["M.G.L. 71:1", "Constitution of Massachusetts, Part II, Chapter V, Section II"]
-description: 
+legal-refs: 
+  - "M.G.L. 71:1"
+  - "Constitution of Massachusetts, Part II, Chapter V, Section II"
+date-adoption: 2008-11-18
+date-first-reading: 2008-10-21
+date-second-reading: 2008-11-18
 ---
 
 The public schools belong to the people. The people govern the schools under rights guaranteed to them under the Constitution and statutes of Massachusetts. The School Committee is mindful that the people are the ultimate governors of public education and that the Committee also believes that accountability is a shared responsibility involving students, teachers and other employees, the Superintendent, and the people themselves as well as the School Committee. The Committee therefore asserts these beliefs and expectations:

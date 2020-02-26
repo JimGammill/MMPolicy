@@ -2,15 +2,17 @@
 type: policy
 code: BDFA
 section: B
-also-codes: [ CEA ]
+also-codes:
+  - CEA
 title: SCHOOL COUNCIL
-date: "2015-05-01"
-legal-refs: [ "MGL(71:38Q)", "MGL(71:59C)", "DESE" ]
-date-original-adoption: "2009-01-06"
-date-adoption: "2009-07-21"
-date-first-reading: "2008-12-16"
-date-second-reading: "2009-01-06"
-description: Four Responsibilities of the School Committee
+legal-refs:
+  - "MGL(71:38Q)"
+  - "MGL(71:59C)"
+  - "DESE"
+previous-adoption-dates: "2009-01-06"
+date-adoption: 2009-07-21
+date-first-reading: 2008-12-16
+date-second-reading: 2009-01-06
 ---
 
 The School Committee believes that the school is the key unit for educational improvement and change and that successfull school improvement is best accomplished through a school-based decision-making process.

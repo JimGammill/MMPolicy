@@ -2,12 +2,12 @@
 type: policy
 code: AC
 section: A
-alsoCodes:  JB
 title: NONDISCRIMINATION
-date: 2020-02-26
 comment-date: 2020-02-29
 comment: This is a template for a comment that is not part of the policy.  This is a template for a comment that is not part of the policy.  This is a template for a comment that is not part of the policy.
-crossrefs:
+also-codes:
+  - JB
+cross-refs:
   - ACA
   - ACAA
   - GBBA
@@ -23,6 +23,11 @@ legal-refs:
   - "M.G.L. Chapter 76 §§5 and 16"
   - "603 CMR 26.00: Access to Equal Educational Opportunity"
   - "603 CMR 28.00: Special Education"	
+date-adoption: 2018-01-16
+date-first-reading: 2017-11-14
+date-second-reading: 2018-01-16
+review: "SS, EB, AD for 11/14/17; Counsel 1/12/18"
+previous-adoption-dates: "2008-11-18; 2013-01-22"
 ---
 
 Public schools have the responsibility to overcome, insofar as possible, any barriers that prevent students from achieving their potential. The Minuteman Regional Vocational Technical School District will do its part. This commitment to the community is affirmed in the following statements of School Committee intent to:
