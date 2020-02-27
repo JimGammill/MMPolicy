@@ -1,9 +1,9 @@
 ---
 type: policy
-code: BDFA
-section: B
+code: CEA
+section: C
 also-codes:
-  - CEA
+  - BDFA
 title: SCHOOL COUNCIL
 legal-refs:
   - "M.G.L. 71:38Q, 71:59C, DESE Regulations"
