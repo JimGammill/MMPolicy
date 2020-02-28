@@ -27,3 +27,4 @@ For any school that contains grades nine to twelve, inclusive, the council shall
   
 In addition, the law states that "nothing contained in this section shall prevent the school committee from granting a school council additional authority in the area of educational policy; provided, however, that school council shall have no authority over matters which are subject to chapter one hundred and fifty E of the General Laws." 
 
+The composition of the School Council will conform to MGL and DESE Regulations.

@@ -27,4 +27,5 @@ The School Council shall meet at least four times during the school year. Meetin
 Consensus shall be used by School Council as the primary method to resolve issues and to formulate recommendations. Votes by majority may be taken at the discretion of the Principal and Robert's Rules of Order shall prevail if there are questions of procedure.
 
 All meetings of the School Council shall conform to the Open Meeting Law, Sections 23 A, B, and C, which stipulates that all meetings be open to the public, that meetings be posted at least 48 hours in advance, and that minutes of the meeting shall be maintained as required. The scope of the School Council does not require, and therefore does not qualify for, executive session.
+
 The Superintendent shall receive agendas and minutes of all School Council meetings.

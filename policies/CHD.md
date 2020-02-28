@@ -3,8 +3,8 @@ type: policy
 code: CHD
 section: C
 title: ADMINISTRATION IN THE ABSENCE OF POLICY
-comment-date:
-comment:
+comment-date: 2020-02-27
+comment:  The text for CHD in the Word Doc on the website follows closely, but not exactly, that of BDDA.  This text is that of BDDA. -- JFG.
 also-codes:
   - BDDA
 cross-refs:
