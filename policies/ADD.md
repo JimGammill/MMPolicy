@@ -7,6 +7,7 @@ comment-date:
 comment:
 source:
 also-codes:
+  - GBED
 cross-refs:
   - JICG
   - KF

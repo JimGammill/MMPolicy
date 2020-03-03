@@ -10,10 +10,10 @@ also-codes:
   - AFD
 cross-refs:
 legal-refs:
-date-adoption: 2008-11-18
-date-second-reading: 2008-11-18
-date-first-reading: 2008-10-21
-previous-adoption-dates:
+date-adoption: 2009-11-17
+date-second-reading: 2009-10-20
+date-first-reading: 2009-09-22
+previous-adoption-dates: "2008-11-18"
 revision:
 review:
 ---

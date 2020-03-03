@@ -3,8 +3,8 @@ type: policy
 code: JF
 section: J
 title: ADMISSIONS POLICY
-comment-date:
-comment:
+comment-date: 2020-03-02
+comment:  "This is the old version of JF; see JF-REV for the one approved by the SC in 2019"
 also-codes:
 cross-refs:
 legal-refs:

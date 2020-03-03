@@ -9,6 +9,11 @@ cross-refs:
   - AC
   - ACAA
   - JBA
+legal-refs:
+  - "Title IX of the Education Amendments of 1972"
+  - "45 CFR, Part 86:  Nondiscrimination on the Basis of Sex in Education Programs or Activities Receiving Federal Financial Assistance"
+  - "M.G.L. Chapter 76 §§5 and 16"
+  - "603 CMR 26.00:  Access to Equal Educational Opportunity"
 date-adoption: 2018-01-16
 date-first-reading: 2017-11-14
 date-second-reading: 2018-01-16

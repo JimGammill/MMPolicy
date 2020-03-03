@@ -2,7 +2,7 @@
 type: policy
 code: GBAA
 section: G
-title: SEXUAL HARASSMENT POLICY
+title: GENERAL PERSONNEL POLICIES
 comment-date:
 comment:
 also-codes: 
@@ -16,6 +16,7 @@ legal-refs:
   - "Title VI and VII of the Civil Rights Act of 1964, as amended"
   - "Title IX of the Education Amendments of 1972, 20 U.S.C. 1681 et seq."
   - "603 CMR 26:00:  Access to Equal Educational Opportunity"
+  - "M.G.L. c. 71:37"
 date-adoption: 2008-11-18
 date-second-reading: 2008-01-16
 date-first-reading: 2007-11-14
@@ -23,6 +24,30 @@ previous-adoption-dates: "1988-08-23"
 revision: "2008-06-17; 2008-10-21"
 review: "voted to add to Student Handbook, 9/8/98, 10/21/08; reviewed SS, EB, AD for 11/14/17; Counsel 1/12/18"
 ---
+
+The Minuteman Regional Vocational Technical School Committee has established and adopted several policies which apply to all School staff and which form the foundation of the relationship of all personnel in the School.  The policies which follow relate to and restate the most fundamental rights and responsibilities to which all staff must adhere in their relations with each other.
+
+### EQUAL OPPORTUNITY EMPLOYMENT
+
+The Minuteman Regional Vocational Technical School Committee subscribes fully and unconditionally to the principle that the dignity of all people and of their labors is of utmost importance.  It will take all action necessary or appropriate to ensure that all persons are employed, paid, assigned, promoted, and treated at all times without regard to their race, creed, religion, color, age, sex, ancestry, handicap, sexual preference or national origin.  Every effort will be taken to assure that all applicants for positions in the School are selected on the basis of their qualifications, merit and ability.
+
+**LEGAL REFERENCES:**     
+- Fourteenth Amendment to United States Constitution
+- Civil Rights Acts of 1964, as amended in 1972, Title VI, Title VII, 42 U.S.C.A.
+- Executive Order 11246, 1965, as amended by Executive Order 11375
+- Equal Employment Opportunity Act of 1972, Title VII
+- Education Amendments of 1972, Title IX, (P.L. 92-318), 20 U.S.C.A. 1681 et seq.
+- 45 CFR, Parts 81, 86 (Federal Register, June 4, 1975, August 11, 1975)
+- Rehabilitation Act of 1973, Section 504
+- Civil Rights Act of 1991, P.L. 102-166
+- M.G.L. c. 151B, c. 214:1C, c. 151C
+- Age Discrimination in Employment Act of 1967, 29 U.S.C.A. 661-634
+- Americans with Disabilities Act of 1990, 42 U.S.C.A. 12101 et seq.
+- Equal Pay Act, 29 U.S.C.A. 206(d)
+- Collective Bargaining Agreements with Staff
+
+
+### SEXUAL HARASSMENT 
 
 Students are protected from sexual harassment by federal law, specifically Title IX of the Education Amendments of 1972.  Courts have found sexual harassment to be a form of sex discrimination.  Sexual harassment includes harassment based on sex, sexual orientation or gender identity.  School employees are also protected from sexual harassment by federal law, Title VII of the Civil Rights Act of 1964.  
 

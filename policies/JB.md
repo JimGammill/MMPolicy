@@ -3,8 +3,8 @@ type: policy
 code: JB
 section: J
 title: NONDISCRIMINATION
-comment-date: 2020-02-29
-comment: This is a template for a comment that is not part of the policy.  This is a template for a comment that is not part of the policy.  This is a template for a comment that is not part of the policy.
+comment-date: 
+comment: 
 also-codes:
   - AC
 cross-refs:
@@ -12,6 +12,7 @@ cross-refs:
   - ACAA
   - GBBA
   - JBA
+  - "Minuteman Student/Parent Handbook"
 legal-refs:
   - "Title VI and Title VII of the Civil Rights Act of 1964, as amended"
   - "Executive Order 11246, as amended by Executive Orders 11375 and 13672"

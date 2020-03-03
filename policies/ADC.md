@@ -7,6 +7,7 @@ comment-date:
 comment:
 source: MASC
 also-codes:
+  - GBEC
 cross-refs:
   - JICHA
   - JICHB
