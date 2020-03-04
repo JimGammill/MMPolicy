@@ -9,6 +9,8 @@ date-second-reading:
 revision: "11/20/1973, 2/20/1979, 10/7/1980; 3/11/2016 (Approved by Commissioner of Education)"
 review: "10/21/2008; 2013-15"
 previous-adoption-dates: "1970-06-18"
+comment: "We are in the policy meeting"
+comment-date: 2020-03-04
 ---
 ### Official Name and Classification
 
