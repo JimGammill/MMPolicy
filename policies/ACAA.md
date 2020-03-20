@@ -38,20 +38,24 @@ While this policy sets forth our goals of promoting a school environment that is
 
 Sexual harassment shall include conduct or communications of a sexual nature including, but not be limited to, unwelcome sexual advances, unwelcome comments regarding physical or personality characteristics of a sexual nature, requests for sexual favors, and other verbal or physical conduct of a sexual nature made by any employee to a student, when made by any individual subject to this police when:
 
-a)	Submission to the conduct or communication is made a term or condition of employment or education;
-b)	Submission to, or rejection of, the conduct or communication is a basis for decisions affecting education, employment, or assignment;
-c)	The conduct or communication has the purpose or effect of substantially interfering with an individual's professional or educational performance; 
-d)	The conduct or communication has the effect of creating an intimidating, hostile, humiliating, or offensive working or educational environment; and/or
+a)	Submission to the conduct or communication is made a term or condition of employment or education;   
+
+b)	Submission to, or rejection of, the conduct or communication is a basis for decisions affecting education, employment, or assignment;   
+
+c)	The conduct or communication has the purpose or effect of substantially interfering with an individual's professional or educational performance;    
+
+d)	The conduct or communication has the effect of creating an intimidating, hostile, humiliating, or offensive working or educational environment; and/or   
+
 e)	The allegedly harassed person has indicated by his/her conduct or verbal objection that the conduct or communication is unwelcome.
 
 Prohibited behavior includes, without limitation, and depending on the totality of the circumstances including the severity of the conduct or communication and its pervasiveness:
 
-•	Verbal harassment or abuse of a sexual nature.
-•	Repeated remarks with sexual or demeaning implications.
-•	Unwelcome touching, leering, or whistling of a sexual nature.
-•	Suggesting or demanding sexual involvement accompanied by implied or explicit threats concerning one's grades, job, promotion, and/or salary increase.
-•	Unwelcome inquiries into and/or discussion of one’s sexual experiences.
-•	Telling sexually suggestive jokes, making demeaning gestures, or displaying sexually suggestive photographs, objects, cartoons, and/or or other materials in the presence of one who finds them offensive and has communicated that fact to the individual telling the jokes or displaying the materials.
+* Verbal harassment or abuse of a sexual nature.
+* Repeated remarks with sexual or demeaning implications.
+* Unwelcome touching, leering, or whistling of a sexual nature.
+* Suggesting or demanding sexual involvement accompanied by implied or explicit threats concerning one's grades, job, promotion, and/or salary increase.
+* Unwelcome inquiries into and/or discussion of one’s sexual experiences.
+* Telling sexually suggestive jokes, making demeaning gestures, or displaying sexually suggestive photographs, objects, cartoons, and/or or other materials in the presence of one who finds them offensive and has communicated that fact to the individual telling the jokes or displaying the materials.
 
 #### Reporting Sexual Harassment:
 
@@ -70,6 +74,7 @@ All complaints will be thoroughly investigated by the Coordinator, the Superinte
 When handling an investigation with the accused harasser:
 
 a)	there will be a third-party faculty member present at discussions with the accused (preferably a supportive faculty member of the same sex as the accuser); and
+
 b)	the investigating group will be as small as possible to protect the privacy of both parties.
 
 Both the complainant and the subject of the complaint will be informed of the result of the investigation, in writing, in a manner consistent with federal and state law.
